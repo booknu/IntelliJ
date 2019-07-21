@@ -1,0 +1,106 @@
+----- 아무도 안 푼 문제 -----
+Total: 97
+https://www.acmicpc.net/problem/1072  : 1072번 - 게임
+https://www.acmicpc.net/problem/1114  : 1114번 - 통나무 자르기
+https://www.acmicpc.net/problem/1166  : 1166번 - 선물
+https://www.acmicpc.net/problem/1300  : 1300번 - K번째 수
+https://www.acmicpc.net/problem/1348  : 1348번 - 주차장
+https://www.acmicpc.net/problem/1355  : 1355번 - 구멍난 케이크 자르기
+https://www.acmicpc.net/problem/1477  : 1477번 - 휴게소 세우기
+https://www.acmicpc.net/problem/1508  : 1508번 - 레이스
+https://www.acmicpc.net/problem/1620  : 1620번 - 나는야 포켓몬 마스터 이다솜
+https://www.acmicpc.net/problem/1637  : 1637번 - 날카로운 눈
+https://www.acmicpc.net/problem/1841  : 1841번 - 군사 배치
+https://www.acmicpc.net/problem/1939  : 1939번 - 중량제한
+https://www.acmicpc.net/problem/1981  : 1981번 - 배열에서 이동
+https://www.acmicpc.net/problem/2022  : 2022번 - 사다리
+https://www.acmicpc.net/problem/2067  : 2067번 - 엘리베이터
+https://www.acmicpc.net/problem/2110  : 2110번 - 공유기 설치
+https://www.acmicpc.net/problem/2130  : 2130번 - 수조
+https://www.acmicpc.net/problem/2191  : 2191번 - 들쥐의 탈출
+https://www.acmicpc.net/problem/2343  : 2343번 - 기타 레슨
+https://www.acmicpc.net/problem/2359  : 2359번 - 드라이브
+https://www.acmicpc.net/problem/2365  : 2365번 - 숫자판 만들기
+https://www.acmicpc.net/problem/2412  : 2412번 - 암벽 등반
+https://www.acmicpc.net/problem/2512  : 2512번 - 예산
+https://www.acmicpc.net/problem/2585  : 2585번 - 경비행기
+https://www.acmicpc.net/problem/2613  : 2613번 - 숫자구슬
+https://www.acmicpc.net/problem/2792  : 2792번 - 보석 상자
+https://www.acmicpc.net/problem/2796  : 2796번 - 만남
+https://www.acmicpc.net/problem/2802  : 2802번 - 크레용
+https://www.acmicpc.net/problem/2805  : 2805번 - 나무 자르기
+https://www.acmicpc.net/problem/2842  : 2842번 - 집배원 한상덕
+https://www.acmicpc.net/problem/2855  : 2855번 - 흥미로운 수열
+https://www.acmicpc.net/problem/2866  : 2866번 - 문자열 잘라내기
+https://www.acmicpc.net/problem/2872  : 2872번 - 우리집엔 도서관이 있어
+https://www.acmicpc.net/problem/2878  : 2878번 - 캔디캔디
+https://www.acmicpc.net/problem/2881  : 2881번 - 산책길
+https://www.acmicpc.net/problem/2895  : 2895번 - 그렘린
+https://www.acmicpc.net/problem/2912  : 2912번 - 백설공주와 난쟁이
+https://www.acmicpc.net/problem/2926  : 2926번 - 비례대표
+https://www.acmicpc.net/problem/2962  : 2962번 - 동물원 확장
+https://www.acmicpc.net/problem/2973  : 2973번 - TAMNICA
+https://www.acmicpc.net/problem/2977  : 2977번 - 폭탄제조
+https://www.acmicpc.net/problem/2990  : 2990번 - 단어 검색
+https://www.acmicpc.net/problem/3001  : 3001번 - 이상한 문제
+https://www.acmicpc.net/problem/3020  : 3020번 - 개똥벌레
+https://www.acmicpc.net/problem/3045  : 3045번 - 이중 연결 리스트
+https://www.acmicpc.net/problem/3079  : 3079번 - 입국심사
+https://www.acmicpc.net/problem/3090  : 3090번 - 차이를 최소로
+https://www.acmicpc.net/problem/3133  : 3133번 - 코끼리
+https://www.acmicpc.net/problem/3180  : 3180번 - 바나나
+https://www.acmicpc.net/problem/3426  : 3426번 - Ardenia
+https://www.acmicpc.net/problem/3427  : 3427번 - Beasts
+https://www.acmicpc.net/problem/3428  : 3428번 - Casting Spells
+https://www.acmicpc.net/problem/3487  : 3487번 - Copying Books
+https://www.acmicpc.net/problem/3610  : 3610번 - Graveyard
+https://www.acmicpc.net/problem/3649  : 3649번 - 로봇 프로젝트
+https://www.acmicpc.net/problem/3651  : 3651번 - 이항계수
+https://www.acmicpc.net/problem/3661  : 3661번 - 생일 선물
+https://www.acmicpc.net/problem/3666  : 3666번 - 리스크
+https://www.acmicpc.net/problem/3691  : 3691번 - 컴퓨터 조립
+https://www.acmicpc.net/problem/3703  : 3703번 - Pie
+https://www.acmicpc.net/problem/3783  : 3783번 - 세제곱근
+https://www.acmicpc.net/problem/3838  : 3838번 - Distributing Ballot Boxes
+https://www.acmicpc.net/problem/3855  : 3855번 - Trick or Treat
+https://www.acmicpc.net/problem/3864  : 3864번 - Stammering Aliens
+https://www.acmicpc.net/problem/3959  : 3959번 - 스키 점프
+https://www.acmicpc.net/problem/4223  : 4223번 - Mummy Madness
+https://www.acmicpc.net/problem/4343  : 4343번 - Arctic Network
+https://www.acmicpc.net/problem/5003  : 5003번 - Eco-driving
+https://www.acmicpc.net/problem/5036  : 5036번 - Speedy Escape
+https://www.acmicpc.net/problem/5058  : 5058번 - Nested Dolls
+https://www.acmicpc.net/problem/5394  : 5394번 - 시계
+https://www.acmicpc.net/problem/6209  : 6209번 - 제자리 멀리뛰기
+https://www.acmicpc.net/problem/6236  : 6236번 - 용돈 관리
+https://www.acmicpc.net/problem/7332  : 7332번 - 편의점 알바
+https://www.acmicpc.net/problem/7453  : 7453번 - 합이 0인 네 정수
+https://www.acmicpc.net/problem/9202  : 9202번 - Boggle
+https://www.acmicpc.net/problem/9236  : 9236번 - 고급 레스토랑
+https://www.acmicpc.net/problem/9373  : 9373번 - 복도 뚫기
+https://www.acmicpc.net/problem/9374  : 9374번 - 감시 카메라
+https://www.acmicpc.net/problem/9502  : 9502번 - Bones’s Battery
+https://www.acmicpc.net/problem/9666  : 9666번 - SUMO
+https://www.acmicpc.net/problem/9669  : 9669번 - UTRKA
+https://www.acmicpc.net/problem/9998  : 9998번 - 블록 쌓기
+https://www.acmicpc.net/problem/10063  : 10063번 - KOSTA
+https://www.acmicpc.net/problem/10288  : 10288번 - Talent Selection
+https://www.acmicpc.net/problem/10325  : 10325번 - Growling Gears
+https://www.acmicpc.net/problem/10415  : 10415번 - Aquarium Tank
+https://www.acmicpc.net/problem/10519  : 10519번 - Biking Duck
+https://www.acmicpc.net/problem/10522  : 10522번 - Euclidean TSP
+https://www.acmicpc.net/problem/10613  : 10613번 - MRAVI
+https://www.acmicpc.net/problem/10742  : 10742번 - PROSJEK
+https://www.acmicpc.net/problem/10753  : 10753번 - ČVENK
+https://www.acmicpc.net/problem/10815  : 10815번 - 숫자 카드
+https://www.acmicpc.net/problem/10816  : 10816번 - 숫자 카드 2
+https://www.acmicpc.net/problem/11461  : 11461번 - Lunch Menu
+https://www.acmicpc.net/problem/11561  : 11561번 - 징검다리
+https://www.acmicpc.net/problem/11812  : 11812번 - K진 트리
+----- 몇 사람만 푼 문제 -----
+Total: 3
+https://www.acmicpc.net/problem/1654  : 1654번 - 랜선 자르기 --> 1명
+https://www.acmicpc.net/problem/1920  : 1920번 - 수 찾기 --> 1명
+https://www.acmicpc.net/problem/2869  : 2869번 - 달팽이는 올라가고 싶다 --> 1명
+----- 모두 푼 문제 -----
+Total: 0
